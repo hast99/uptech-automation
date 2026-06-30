@@ -2,5 +2,4 @@
 node_modules/
 allure-report
 allure-results
-src/pages/
-src/test/Purchase.js
+src/tests/
